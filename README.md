@@ -54,7 +54,7 @@ No Application Options:
 <br /><br />
 Best Match:
 
-<img src="[https://cdn.discordapp.com/attachments/244502209318879232/1044022633219498004/image.png](https://cdn.discordapp.com/attachments/244502209318879232/1044025278055325736/image.png)" alt= "Aseprite searched on windows search bar with best match" width="400px">
+<img src="(https://cdn.discordapp.com/attachments/244502209318879232/1044025278055325736/image.png)" alt= "Aseprite searched on windows search bar with best match" width="400px">
 <br /><br />
 
 
