@@ -1,4 +1,4 @@
-# # Installing & Compiling Aseprite for Windows
+# Installing & Compiling Aseprite for Windows
 ## Necessities 
 ##  1. Aseprite-v1.2.40-Source (Or most recent version)
 You can simply just download it off of the github repository releases and such or use following link. <br />Github: <br />
