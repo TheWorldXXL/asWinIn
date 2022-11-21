@@ -13,7 +13,7 @@ Download the windows version off either github or with the following link to the
 You can also download off their website or github page. <br />Github: [Ninja](https://github.com/ninja-build/ninja/releases)<br />Download:
 [ninja-win.zip](https://github.com/ninja-build/ninja/releases/download/v1.11.1/ninja-win.zip)
 ##  5. Micrsoft VS Build Tools 2022 
-You can install either off of their website or use the following link. You could also potentially use any other Windows terminal in theory but I cannot guarrantee it will work.<br />Website: <br />Download:
+You can install either off of their website or use the following link. You could also potentially use any other Windows terminal in theory but I cannot guarrantee it will work.<br />Website: [Download MS Visual Studio Build Tools](https://visualstudio.microsoft.com/downloads/)<br />Download:
 [Microsoft VS Build Tools 2022](https://aka.ms/vs/17/release/vs_BuildTools.exe)
 
 ---
