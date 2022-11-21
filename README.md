@@ -1,16 +1,16 @@
 # Installing & Compiling Aseprite for Windows
 ## Necessities 
 ##  1. Aseprite-v1.2.40-Source (Or most recent version)
-You can simply just download it off of the github repository releases and such or use following link. <br />Github: <br />
-Download:
+You can simply just download it off of the github repository releases and such or use following link. <br />Github: [Aseprite](https://github.com/aseprite/aseprite/releasesE)<br />
+Download: 
 [Aseprite-v1.2.40-Source.zip](https://github.com/aseprite/aseprite/releases/download/v1.2.40/Aseprite-v1.2.40-Source.zip)
 ##  2. CMake
-If not already installed open powershell and type "winget      CMake" to get the package manager to install CMake for you on the computer or you can use the linked installer. <br />Github: <br />Download:
+If not already installed open powershell and type "winget      CMake" to get the package manager to install CMake for you on the computer or you can use the linked installer. <br />Website: [Download CMake](https://cmake.org/download/) <br />Download:
 [CMake Installer](https://github.com/Kitware/CMake/releases/download/v3.25.0/cmake-3.25.0-windows-x86_64.msi)
 ##  3. Get the Skia zip files
-Download the windows version off either github or with the following link to the verison I used. <br />Github: <br />Download: [Skia-Windows-Release-x64.zip](https://github.com/aseprite/skia/releases/download/m102-861e4743af/Skia-Windows-Release-x64.zip)
+Download the windows version off either github or with the following link to the verison I used. <br />Github: [Skia for Aseprite](https://github.com/aseprite/skia/releases) <br />Download: [Skia-Windows-Release-x64.zip](https://github.com/aseprite/skia/releases/download/m102-861e4743af/Skia-Windows-Release-x64.zip)
 ##  4. Get the Ninja zip files
-You can also download off their website or github page. <br />Github: <br />Download:
+You can also download off their website or github page. <br />Github: [Ninja](https://github.com/ninja-build/ninja/releases)<br />Download:
 [ninja-win.zip](https://github.com/ninja-build/ninja/releases/download/v1.11.1/ninja-win.zip)
 ##  5. Micrsoft VS Build Tools 2022 
 You can install either off of their website or use the following link. You could also potentially use any other Windows terminal in theory but I cannot guarrantee it will work.<br />Website: <br />Download:
@@ -54,7 +54,7 @@ No Application Options:
 <br /><br />
 Best Match:
 
-<img src="https://cdn.discordapp.com/attachments/244502209318879232/1044025278055325736/image.png" alt= "Aseprite searched on windows search bar with best match" width="400px">
+<img src="https://cdn.discordapp.com/attachments/244502209318879232/1044022633219498004/image.png" alt= "Aseprite searched on windows search bar with best match" width="400px">
 <br /><br />
 
 
